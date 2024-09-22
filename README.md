@@ -4,6 +4,6 @@
 ### It implements error checking and data validation to enhance application security and reliability.
 
 To run this application, 
-1. create a new java project in your preferred IDE
-2. copy all java files from this repo into newly created project
-3. run the Flight Management and Booking Application java file
+1. Create a new java project in your preferred IDE
+2. Copy all java files from this repo into newly created project
+3. Run the [FlightManagementAndBookingApp.java](https://github.com/Jasanpreet5/Flight-Management-and-Booking-Application/blob/master/FlightManagementAndBookingApp.java) file
