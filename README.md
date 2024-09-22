@@ -1,5 +1,5 @@
 # Flight Management and Booking Application
-### This is a console-based Java application using Object-Oriented design principles.
+### This is a console-based Java application using Object-Oriented design principles that displays a MENU for doing different tasks in the app.
 ### It includes functionality for admin to manage flights and passengers to book flights.
 ### It implements error checking and data validation to enhance application security and reliability.
 
